@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363570797820",
+    "project_id": "projet-kotlin-mobile",
+    "storage_bucket": "projet-kotlin-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363570797820:android:1d8b28c821680bfd54cb79",
+        "android_client_info": {
+          "package_name": "com.example.projet_gestion_livres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80XKK_1OAPHCoPi7VS2mOEKxTAiLcK8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
